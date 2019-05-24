@@ -3,7 +3,7 @@ course lab for Embedded System Design 北航嵌入式系统设计ARM大作业
  
  ```Approval version``` 
  
- Github 上面有没有素质三连哦？萌新瑟瑟发抖 :)
+ Github 萌新瑟瑟发抖 :)
  </br>
 ### To do list
  - [ ]error input in R 
