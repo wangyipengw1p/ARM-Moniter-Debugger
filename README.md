@@ -9,6 +9,7 @@ course lab for Embedded System Design 北航嵌入式系统设计ARM大作业
  - [√]try print10 using MUL
  
 ### Notes
+- You can find the ADS1.2 [Here](http://pan.baidu.com/s/1gdDxImB) and system image iso [Here](https://msdn.itellyou.cn/)
 - The print 10 task is implemented in 2 method, while the bulided proj file uses the simpler one. 
 - For binary to BCD algorithm and demo, please refer to http://www.johnloomis.org/ece314/notes/devices/binary_to_BCD/bin_to_bcd.html
 - Please check the ```out_put_example.txt``` for examples.
