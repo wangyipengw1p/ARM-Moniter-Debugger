@@ -30,4 +30,4 @@ The main application (file main.s), running in User mode, is interrupted in two 
 The set of commands that you should implement are shown in the table below. All numeric inputs are in
 hexadecimal form, with the possible exception of <number>.
 
-
+![instruction](https://github.com/wangyipengw1p/ARM-moniter/blob/master/image.png)
