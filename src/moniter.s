@@ -185,7 +185,7 @@ M_2
 M_1		;// 0 command
 		LDR		r1, =MAddr		
 		LDR		r2, [r1]	
-		ADD		r2, r2, #4
+		ADD		r2, r2, #4 
 M_getdata
 		STR		r2, [r1]	;//store address of this time
 		LDR    	r2, [r2]		;//get 32bits data store in [r2]
