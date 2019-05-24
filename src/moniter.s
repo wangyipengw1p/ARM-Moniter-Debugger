@@ -5,7 +5,7 @@
 		EXTERN	r14tmp
 ;//******************************************************
 ;//                   Yipeng Wang :)                    *
-;//	        16711065@Beihang University		*
+;//	           @Beihang University  		*
 ;//******************************************************
 ;// To do:
 ;// []error input in R 
