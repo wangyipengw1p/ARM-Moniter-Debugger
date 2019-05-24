@@ -3,7 +3,7 @@ course lab for Embedded System Design 北航嵌入式系统设计ARM大作业
  
  ```Approval version``` 
  
- Github 萌新瑟瑟发抖 :)
+ 
  </br>
 ### To do list
  - [ ]error input in R 
@@ -37,4 +37,4 @@ hexadecimal form, with the possible exception of <number>.
 
 ![instruction](https://github.com/wangyipengw1p/ARM-moniter/blob/master/image.png)
 -----------------------------
-WYP 2019.5.24
+WYP 2019.5.24  ```听说Github也有素质三连？（并不）```
