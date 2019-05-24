@@ -7,10 +7,10 @@
 ;//                   Yipeng Wang :)                    *
 ;//	           @Beihang University  		*
 ;//******************************************************
-;// To do:
+;// To do: 
 ;// []error input in R 
 ;// []special print byte for m 
-;// []try print10 using MUL
+;// [*]try print10 using MUL
 ;//
 ;// Reminder: This Monitor is usually called in privileged mode. 
 ;//(for example, when displaying registers via the 'R/r' command) that the debugged application is running in user mode.
