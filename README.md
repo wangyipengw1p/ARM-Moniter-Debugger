@@ -6,6 +6,7 @@ course lab for Embedded System Design 北航嵌入式系统设计ARM大作业
  
  </br>
 ### To do list
+
  - [ ]error input in R 
  - [ ]special print byte for m 
  - [√]try print10 using MUL
