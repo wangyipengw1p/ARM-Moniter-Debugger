@@ -551,9 +551,9 @@ loop10print	;// loop print others
 		LDR		r2, zeroPointOne
 		MOV		r5, #9
 		MOV		r8, #0		;// r8: carry
-						;// Due to the precision of 0.1, r0 - 10 * [r0 * 0.1] could > 9, where we should set the carry to 1
-						;// This'll not happend theoratically is 0.1 is precise
-						;// With the help of carry, the result will be correct in all condition.
+						;// Due to the precision of 0.1, r0 - 10 * [r0 * 0.1] could > 9, when we should set the carry to 1
+						;// This'll not happend theoratically when 0.1 is precise
+						;// With the help of carry, the result will be correct in all conditions.
 
 looppre		
 		UMULL		r12, r6, r0, r2		;// fixed point multiplication, with higher 32bits(r6) to be the integer part
